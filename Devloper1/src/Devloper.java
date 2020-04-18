@@ -4,7 +4,10 @@ public class Devloper {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //one line added by devloper 1
-		//is this conflict occures
+
+		//second line added by devloper 2 by pulling project
+//third line added by pulling project
+		
 	}
 
 }
